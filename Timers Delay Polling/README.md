@@ -99,3 +99,4 @@ This implementation assumes that the TIM2 input clock is 16 MHz. On STM32F401RE,
 
 The timer delay depends on the actual TIM2 input clock frequency.
 
+ Code : https://github.com/BhanuFirmware2/NUCLEO-F401RE-BAREMETAL-PROGRAMMING/blob/main/Timers%20Delay%20Polling/main.c
