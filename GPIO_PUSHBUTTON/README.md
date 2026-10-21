@@ -114,4 +114,5 @@ Sets PA10 LOW.
 - IDR and ODR registers
 - Bare-metal Embedded C programming
 
+code : https://github.com/BhanuFirmware2/NUCLEO-F401RE-BAREMETAL-PROGRAMMING/blob/main/GPIO_PUSHBUTTON/main.c
 
