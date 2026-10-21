@@ -159,3 +159,4 @@ The delay is approximate and depends on the CPU clock frequency and compiler opt
 ## 10. Source Code
 
 See `main.c` in this folder for the complete implementation.
+https://github.com/BhanuFirmware2/NUCLEO-F401RE-BAREMETAL-PROGRAMMING/blob/main/GPIO_Traffic%203leds/main.c
