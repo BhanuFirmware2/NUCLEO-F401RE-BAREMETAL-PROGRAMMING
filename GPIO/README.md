@@ -59,3 +59,5 @@ The onboard green LED on the NUCLEO-F401RE is connected to PA5, not PA10.
 - GPIO output configuration
 - Bitwise operations in Embedded C
 - Bare-metal programming without HAL
+
+- code : https://github.com/BhanuFirmware2/NUCLEO-F401RE-BAREMETAL-PROGRAMMING/blob/main/GPIO/main.c
